@@ -1,0 +1,8 @@
+Portfolio - Doc/.DS_Store css/.DS_Store img/.DS_Store js/.DS_Store scss/.DS_Store
+.DS_Store
+img/Tour/Tour walk.mov
+.mov
+*.mov
+*.MOV
+**/.mov
+**/.MOV
