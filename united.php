@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/fav.png">
+		<link rel="shortcut icon" href="img/fav.png">
 		<!-- Author Meta -->
 		<meta name="author" content="codepixer">
 		<!-- Meta Description -->
@@ -19,15 +19,15 @@
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!-- =================== CSS ======================== -->
-			<link rel="stylesheet" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/linearicons.css">
-			<link rel="stylesheet" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/font-awesome.min.css">
-			<link rel="stylesheet" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/bootstrap.css">
-			<link rel="stylesheet" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/magnific-popup.css">
-			<link rel="stylesheet" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/nice-select.css">					
-			<link rel="stylesheet" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/animate.min.css">
-			<link rel="stylesheet" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/owl.carousel.css">
-			<link rel="stylesheet" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/main.css">
-			<link rel="stylesheet" href ="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/css/gallery.css">
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/nice-select.css">					
+			<link rel="stylesheet" href="css/animate.min.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">
+			<link rel="stylesheet" href="css/main.css">
+			<link rel="stylesheet" href ="css/gallery.css">
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     		<link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
     		<link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css">
@@ -40,13 +40,13 @@
 				<nav class="navbar navbar-expand-lg  navbar-light">
 					<div class="container">
 						  <a class="navbar-brand" href="/">
-						  	<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/logo.png" alt="">
+						  	<img src="img/logo.png" alt="">
 						  </a>
 
 						  <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 						    <ul class="navbar-nav">
-								<li><a href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/index">Home</a></li>
-								<li><a href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/index#portfolio">Portfolio</a></li>
+								<li><a href="index">Home</a></li>
+								<li><a href="index#portfolio">Portfolio</a></li>
 								<li><a href="#">About</a></li>
 						    </ul>
 						  </div>						
@@ -100,73 +100,73 @@
 						<div class="row">
 
 							<div class="col-sm-12 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/sketch.gif">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/sketch.gif" alt="sketchwork">
+								<a class="lightbox" href="img/Unite/sketch.gif">
+									<img src="img/Unite/sketch.gif" alt="sketchwork">
 								</a>
 							</div>
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/flag.gif">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/flag.gif" alt="flagwork">
+								<a class="lightbox" href="img/Unite/flag.gif">
+									<img src="img/Unite/flag.gif" alt="flagwork">
 								</a>
 							</div>
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/process.gif">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/process.gif" alt="process">
+								<a class="lightbox" href="img/Unite/process.gif">
+									<img src="img/Unite/process.gif" alt="process">
 								</a>
 							</div>
 							<div class="col-sm-12 col-md-8">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew5.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew5.jpg" alt="religion">
+								<a class="lightbox" href="img/Unite/mathew5.jpg">
+									<img src="img/Unite/mathew5.jpg" alt="religion">
 								</a>
 							</div>
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew6.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew6.jpg" alt="state">
+								<a class="lightbox" href="img/Unite/mathew6.jpg">
+									<img src="img/Unite/mathew6.jpg" alt="state">
 								</a>
 							</div> 
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="ffile:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew7.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew7.jpg" alt="vrspace">
+								<a class="lightbox" href="fimg/Unite/mathew7.jpg">
+									<img src="img/Unite/mathew7.jpg" alt="vrspace">
 								</a>
 							</div>
 							<div class="col-sm-12 col-md-4"> 
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew10.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew10.jpg" alt="diagram1">
+								<a class="lightbox" href="img/Unite/mathew10.jpg">
+									<img src="img/Unite/mathew10.jpg" alt="diagram1">
 								</a>
 							</div>
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew11.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew11.jpg" alt="diagram2">
+								<a class="lightbox" href="img/Unite/mathew11.jpg">
+									<img src="img/Unite/mathew11.jpg" alt="diagram2">
 								</a>
 							</div>	
 							<div class="col-sm-12 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew12.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/mathew12.jpg" alt="diagram3">
+								<a class="lightbox" href="img/Unite/mathew12.jpg">
+									<img src="img/Unite/mathew12.jpg" alt="diagram3">
 								</a>
 							</div>
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/Plot 1.png">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/Plot 1.png" alt="diagram1">
+								<a class="lightbox" href="img/Unite/Plot 1.png">
+									<img src="img/Unite/Plot 1.png" alt="diagram1">
 								</a>
 							</div>
 							<div class="col-sm-12 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/flag.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/flag.jpg" alt="flag">
+								<a class="lightbox" href="img/Unite/flag.jpg">
+									<img src="img/Unite/flag.jpg" alt="flag">
 								</a>
 							</div>
 							<div class="col-sm-12 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/tattoo.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/tattoo.jpg" alt="tattoo">
+								<a class="lightbox" href="img/Unite/tattoo.jpg">
+									<img src="img/Unite/tattoo.jpg" alt="tattoo">
 								</a>
 							</div>
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/JK-poster.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/JK-poster.jpg" alt="poster">
+								<a class="lightbox" href="img/Unite/JK-poster.jpg">
+									<img src="img/Unite/JK-poster.jpg" alt="poster">
 								</a>
 							</div>
 							<div class="col-sm-12 col-md-4">
-								<a class="lightbox" href="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/flag.jpg">
-									<img src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/img/Unite/flag.jpg" alt="flag">
+								<a class="lightbox" href="img/Unite/flag.jpg">
+									<img src="img/Unite/flag.jpg" alt="flag">
 								</a>
 							</div>							
 
@@ -178,21 +178,21 @@
 								
 				<!--end gallery area-->
 
-				<?php include("file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/footer.php"); ?>
+				<?php include("footer.php"); ?>
 			</div>
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/vendor/bootstrap.min.js"></script>			
-  			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/easing.min.js"></script>			
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/jquery.ajaxchimp.min.js"></script>
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/jquery.magnific-popup.min.js"></script>	
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/owl.carousel.min.js"></script>			
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/jquery.sticky.js"></script>			
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/jquery.nice-select.min.js"></script>			
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/parallax.min.js"></script>	
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/mail-script.js"></script>
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/isotope.pkgd.min.js"></script>	
-			<script src="file:///Macintosh HD/Users/ashamsa_mathew/Talk Nerdy to me/WebPort/js/main.js"></script>	
+			<script src="js/vendor/bootstrap.min.js"></script>			
+  			<script src="js/easing.min.js"></script>			
+			<script src="js/jquery.ajaxchimp.min.js"></script>
+			<script src="js/jquery.magnific-popup.min.js"></script>	
+			<script src="js/owl.carousel.min.js"></script>			
+			<script src="js/jquery.sticky.js"></script>			
+			<script src="js/jquery.nice-select.min.js"></script>			
+			<script src="js/parallax.min.js"></script>	
+			<script src="js/mail-script.js"></script>
+			<script src="js/isotope.pkgd.min.js"></script>	
+			<script src="js/main.js"></script>	
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 			<script> baguetteBox.run('.tz-gallery');</script>
 		</body>
