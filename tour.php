@@ -100,13 +100,13 @@
 						<div class="row">
 
 							<div class="col-sm-12 col-md-4">
-								<a class="lightbox" href="img/Tour/WhatsApp Image 2017-10-22 at 11.27.21 PM.jpeg">
-									<img src="img/Tour/WhatsApp Image 2017-10-22 at 11.27.21 PM.jpeg" alt="activity flow">
+								<a class="lightbox" href="img/Tour/activitymodule.jpeg">
+									<img src="img/Tour/activitymodule.jpeg" alt="activity flow">
 								</a>
 							</div>
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="img/Tour/model design.jpeg">
-									<img src="img/Tour/model design.jpeg" alt="module">
+								<a class="lightbox" href="img/Tour/ideation.jpeg">
+									<img src="img/Tour/ideation.jpeg" alt="module">
 								</a>
 							</div>
 							<div class="col-sm-6 col-md-4">
@@ -125,8 +125,8 @@
 								</a>
 							</div> 
 							<div class="col-sm-6 col-md-4">
-								<a class="lightbox" href="img/Tour/setup1.jpeg">
-									<img src="img/Tour/setup1.jpeg" alt="setup1">
+								<a class="lightbox" href="img/Tour/camera.jpeg">
+									<img src="img/Tour/camera.jpeg" alt="camera">
 								</a>
 							</div>
 							<div class="col-sm-12 col-md-4"> 
