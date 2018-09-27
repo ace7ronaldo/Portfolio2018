@@ -47,8 +47,8 @@
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content pb-60 col-lg-10">
 						<div class="title text-center">
-							<h1 class="mb-10 text-white">Unite to Divide, then Divide to Unite</h1>
-							<p><b>Print Media</b></p>
+							<h1 class="mb-10 text-white">Certainly Uncertain</h1>
+							<p><b>Data Visualization</b></p>
 						</div>
 					</div>
 				</div>	
@@ -63,10 +63,9 @@
 
 					<div class="col-lg-4 col-xl-12">
 						<div class="single-service">
-							<h4>With this project I was tasked with creating the beginnings of a sovereign identity system in a technological future imagined for the state of Jammu &amp; Kashmir (located in India). Throughout my explorations, I acted as a critic, using the system I developed to take on a rhetorical position.</h4>
-							<p> The viewer is taken on a journey into a possible dystopian future. The journey begins with the user a brief understanding of the history and the current situation of the state and then dive into new beginnings. As the viewer is introduced to the imagined future they are guided through each element of the sovereign identity system created and the irony of the situation. The viewer is forced acknowledge the looming question of vulnerability associated with the use of technology. </p>
-							<p>This project was published on the <a href="https://design.ncsu.edu/andso/2018/06/01/unite-to-divide-then-divide-to-unite/"AndSo Graduate Journal. </a></p>
-							<p>This project designed using Adobe InDesign. </p>
+							<h4>An exploration of the representation of uncertainty associated with statistical information (weather, poll data etc).  </h4>
+							<p> When a user enters the website to learn about the poll data, the interface is nothing out of the ordinary until they reach the poll data. The user can choose whether they want to view uncertainty or not. The final results data is represented differently to allow in-depth understanding of number game. The viewer can view how each group has voted and how it affects everything on a larger scale. </p>
+							<p>This project was completed using Adobe Illustrator, Aftereffects and Adobe XD.</p>
 						</div>
 					</div>
 
@@ -84,74 +83,26 @@
 				<div class="row">
 
 					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/sketch.gif">
-							<img src="img/Unite/sketch.gif" alt="sketchwork">
+						<a class="lightbox" href="img/certainly uncertain/concept-visualization.gif">
+							<img src="img/certainly uncertain/concept-visualization.gif" alt="concept sketch">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/flag.gif">
-							<img src="img/Unite/flag.gif" alt="flagwork">
+						<a class="lightbox" href="img/certainly uncertain/buildup.gif">
+							<img src="img/certainly uncertain/buildup.gif" alt="buildup">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/process.gif">
-							<img src="img/Unite/process.gif" alt="process">
+						<a class="lightbox" href="img/certainly uncertain/visualization.gif">
+							<img src="img/certainly uncertain/visualization.gif" alt="visuals">
 						</a>
 					</div>
 					<div class="col-sm-12 col-md-8">
-						<a class="lightbox" href="img/Unite/mathew5.jpg">
-							<img src="img/Unite/mathew5.jpg" alt="religion">
+						<a class="lightbox" href="img/certainly uncertain/laptop.jpg">
+							<img src="img/certainly uncertain/laptop.jpg" alt="laptop">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/mathew6.jpg">
-							<img src="img/Unite/mathew6.jpg" alt="state">
-						</a>
-					</div> 
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="fimg/Unite/mathew7.jpg">
-							<img src="img/Unite/mathew7.jpg" alt="vrspace">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4"> 
-						<a class="lightbox" href="img/Unite/mathew10.jpg">
-							<img src="img/Unite/mathew10.jpg" alt="diagram1">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/mathew11.jpg">
-							<img src="img/Unite/mathew11.jpg" alt="diagram2">
-						</a>
-					</div>	
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/mathew12.jpg">
-							<img src="img/Unite/mathew12.jpg" alt="diagram3">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/Plot 1.png">
-							<img src="img/Unite/Plot 1.png" alt="diagram1">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/flag.jpg">
-							<img src="img/Unite/flag.jpg" alt="flag">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/tattoo.jpg">
-							<img src="img/Unite/tattoo.jpg" alt="tattoo">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/JK-poster.jpg">
-							<img src="img/Unite/JK-poster.jpg" alt="poster">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/handheldposter.jpg">
-							<img src="img/Unite/handheldposter.jpg" alt="flag">
-						</a>
+					
 					</div>							
 
 				</div>
@@ -181,6 +132,3 @@
 	<script> baguetteBox.run('.tz-gallery');</script>
 </body>
 </html>
-
-
-

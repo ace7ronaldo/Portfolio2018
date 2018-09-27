@@ -135,7 +135,7 @@
 							</div>	
 							<div class="single-portfolio col-sm-4 all agency">
 								<div class="item">
-									<img src="img/p7.jpg" alt="Work 1">
+									<a href="uncertain.php" ><img src="img/p7.jpg" alt="Work 1">
 									<div class="p-inner">
 										<h5>Certainly Uncertain</h5>
 										<div class="cat">Data Visualization</div>
