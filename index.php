@@ -32,25 +32,25 @@
 		<body>
 			<div class="protfolio-wrap">
 
-			<!-- Start Header Area -->
-			<header class="default-header">
-				<nav class="navbar navbar-expand-lg  navbar-light">
-					<div class="container">
-						  <a class="navbar-brand" href="index">
-						  	<img src="img/logo.png" alt="">
-						  </a>
+				<!-- Start Header Area -->
+				<header class="default-header">
+					<nav class="navbar navbar-expand-lg  navbar-light">
+						<div class="container">
+							<a class="navbar-brand" href="index">
+								<img src="img/logo.png" alt="">
+							</a>
 
-						  <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
-						    <ul class="navbar-nav">
-								<li><a href="#home">Home</a></li>
-								<li><a href="#portfolio">Portfiolio</a></li>
-								<li><a href="#">About</a></li>
-						    </ul>
-						  </div>						
-					</div>
-				</nav>
-			</header>
-			<!-- End Header Area -->	
+							<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
+								<ul class="navbar-nav">
+									<li><a href="#home">Home</a></li>
+									<li><a href="#portfolio">Portfiolio</a></li>
+									<li><a href="#">About</a></li>
+								</ul>
+							</div>						
+						</div>
+					</nav>
+				</header>
+				<!-- End Header Area -->	
 				<!-- start banner Area -->
 				<section class="banner-area relative" id="home">	
 					<div class="overlay overlay-bg"></div>
@@ -62,93 +62,96 @@
 				
 				<!-- Start portfolio-area Area -->	
 				<section class="portfolio-area section-gap" id="portfolio">
-				  <div class="container">
+					<div class="container">
 						<div class="row d-flex justify-content-center">
 							<div class="menu-content col-lg-10">
 								<div class="title text-center">
-								  <h1 class="mb-10">Portfolio</h1>
+									<h1 class="mb-10">Portfolio</h1>
 								</div>
 							</div>
 						</div>
-				    
-				    <div class="filters">
-				      <ul>
-				        <li class="active" data-filter="*">All</li>
-				        <li data-filter=".corporate">Print</li>
-				        <li data-filter=".agency">UI/UX</li>
-				      </ul>
-				    </div>
-				    
-				    <div class="filters-content">
-				      <div class="row grid">
-				        <div class="single-portfolio col-sm-4 all corporate">
-				          <div class="item">
-							  <a href="img/p1.jpg" alt="Work 1"> </a>
-				            <div class="p-inner">
-				              <h4>Wild</h4>
-				              <div class="cat"> Book Design</div>
-				            </div>
-				          </div>
-				        </div>
-				        <div class="single-portfolio col-sm-4 all agency">
-				          <div class="item">
-				            <a href="tour.php" ><img src="img/p2.jpg" alt="Work 1">
-				            <div class="p-inner">
-				              <h4>Tour</h4>
-				              <div class="cat"> Web VR</div>
-				            </div>
-				          </div>
-				        </div>
-				        <div class="single-portfolio col-sm-4 all corporate">
-				          <div class="item">
-				            <a href="united.php" ><img src="img/p3.jpg" alt="Work 1">
-				            <div class="p-inner">
-				              <h5>Unite to Divide then Divide to Unite</h5>
-				              <div class="cat"> Poster Design</div>
-				            </div>
-				          </div>
-				        </div>
-				        <div class="single-portfolio col-sm-4 all corporate">
-				          <div class="item">
-				            <img src="img/p4.jpg" alt="Work 1">
-				            <div class="p-inner">
-				              <h4>Pendulum of Chaos</h4>
-				              <div class="cat"> Broadsheet Design</div>
-				            </div>
-				          </div>
-				        </div>
-				        <div class="single-portfolio col-sm-4 all agency">
-				          <div class="item">
-				            <img src="img/p5.jpg" alt="Work 1">
-				            <div class="p-inner">
-				              <h4>Why do Cells split?</h4>
-				              <div class="cat">Mobile App Design</div>
-				            </div>
-				          </div>
-				        </div>
-				        <div class="single-portfolio col-sm-4 all corporate">
-				          <div class="item">
-				            <img src="img/p6.jpg" alt="Work 1">
-				            <div class="p-inner">
-				              <h5>What is Graphic Design?</h5>
-				              <div class="cat"> Booklet Design</div>
-				            </div>
-				          </div>
-				        </div>	
-				        <div class="single-portfolio col-sm-4 all agency">
-				          <div class="item">
-				            <img src="img/p7.jpg" alt="Work 1">
-				            <div class="p-inner">
-				              <h5>Certainly Uncertain</h5>
-				              <div class="cat">Data Visualization</div>
-				            </div>
-				          </div>
-				        </div>							  
-				        
-				      </div>
-				    </div>
-				    
-				  </div>
+
+						<div class="filters">
+							<ul>
+								<li class="active" data-filter="*">All</li>
+								<li data-filter=".corporate">Print</li>
+								<li data-filter=".agency">UI/UX</li>
+							</ul>
+						</div>
+
+						<div class="filters-content">
+							<div class="row grid">
+								<div class="single-portfolio col-sm-4 all corporate">
+									<div class="item">
+										<a href="wild.php"> <img src="img/p1.jpg" alt="Work 1">
+											<div class="p-inner">
+												<h4>Wild</h4>
+												<div class="cat"> Book Design</div>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="single-portfolio col-sm-4 all agency">
+									<div class="item">
+										<a href="tour.php" ><img src="img/p2.jpg" alt="Work 1"> 
+											<div class="p-inner">
+												<h4>Tour</h4>
+												<div class="cat"> Web VR</div>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="single-portfolio col-sm-4 all corporate">
+									<div class="item">
+										<a href="united.php" ><img src="img/p3.jpg" alt="Work 1">
+											<div class="p-inner">
+												<h5>Unite to Divide then Divide to Unite</h5>
+												<div class="cat"> Poster Design</div>
+											</div>
+										</a>
+									</div>									
+								</div>
+								<div class="single-portfolio col-sm-4 all corporate">
+									<div class="item">
+										<img src="img/p4.jpg" alt="Work 1">
+										<div class="p-inner">
+											<h4>Pendulum of Chaos</h4>
+											<div class="cat"> Broadsheet Design</div>
+										</div>
+									</div>
+								</div>
+								<div class="single-portfolio col-sm-4 all agency">
+									<div class="item">
+										<img src="img/p5.jpg" alt="Work 1">
+										<div class="p-inner">
+											<h4>Why do Cells split?</h4>
+											<div class="cat">Mobile App Design</div>
+										</div>
+									</div>
+								</div>
+								<div class="single-portfolio col-sm-4 all corporate">
+									<div class="item">
+										<img src="img/p6.jpg" alt="Work 1">
+										<div class="p-inner">
+											<h5>What is Graphic Design?</h5>
+											<div class="cat"> Booklet Design</div>
+										</div>
+									</div>
+								</div>	
+								<div class="single-portfolio col-sm-4 all agency">
+									<div class="item">
+										<img src="img/p7.jpg" alt="Work 1">
+										<div class="p-inner">
+											<h5>Certainly Uncertain</h5>
+											<div class="cat">Data Visualization</div>
+										</div>
+									</div>
+								</div>							  
+
+							</div>
+						</div>
+
+					</div>
 				</section>
 				<!-- End portfolio-area Area -->	
 
@@ -158,7 +161,7 @@
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 			<script src="js/vendor/bootstrap.min.js"></script>			
-  			<script src="js/easing.min.js"></script>			
+			<script src="js/easing.min.js"></script>			
 			<script src="js/jquery.ajaxchimp.min.js"></script>
 			<script src="js/jquery.magnific-popup.min.js"></script>	
 			<script src="js/owl.carousel.min.js"></script>			
@@ -169,7 +172,7 @@
 			<script src="js/isotope.pkgd.min.js"></script>	
 			<script src="js/main.js"></script>	
 		</body>
-	</html>
+		</html>
 
 
 
