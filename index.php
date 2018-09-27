@@ -33,24 +33,9 @@
 			<div class="protfolio-wrap">
 
 				<!-- Start Header Area -->
-				<header class="default-header">
-					<nav class="navbar navbar-expand-lg  navbar-light">
-						<div class="container">
-							<a class="navbar-brand" href="index">
-								<img src="img/logo.png" alt="">
-							</a>
-
-							<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
-								<ul class="navbar-nav">
-									<li><a href="#home">Home</a></li>
-									<li><a href="#portfolio">Portfiolio</a></li>
-									<li><a href="#">About</a></li>
-								</ul>
-							</div>						
-						</div>
-					</nav>
-				</header>
+				<?php include("header.php"); ?>
 				<!-- End Header Area -->	
+				
 				<!-- start banner Area -->
 				<section class="banner-area relative" id="home">	
 					<div class="overlay overlay-bg"></div>
@@ -83,7 +68,7 @@
 							<div class="row grid">
 								<div class="single-portfolio col-sm-4 all corporate">
 									<div class="item">
-										<a href="wild.php"> <img src="img/p1.jpg" alt="Work 1">
+										<a href="wild"> <img src="img/p1.jpg" alt="Work 1">
 											<div class="p-inner">
 												<h4>Wild</h4>
 												<div class="cat"> Book Design</div>
@@ -93,7 +78,7 @@
 								</div>
 								<div class="single-portfolio col-sm-4 all agency">
 									<div class="item">
-										<a href="tour.php" ><img src="img/p2.jpg" alt="Work 1"> 
+										<a href="tour" ><img src="img/p2.jpg" alt="Work 1"> 
 											<div class="p-inner">
 												<h4>Tour</h4>
 												<div class="cat"> Web VR</div>
@@ -103,7 +88,7 @@
 								</div>
 								<div class="single-portfolio col-sm-4 all corporate">
 									<div class="item">
-										<a href="united.php" ><img src="img/p3.jpg" alt="Work 1">
+										<a href="united" ><img src="img/p3.jpg" alt="Work 1">
 											<div class="p-inner">
 												<h5>Unite to Divide then Divide to Unite</h5>
 												<div class="cat"> Poster Design</div>
