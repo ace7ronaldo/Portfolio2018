@@ -108,7 +108,7 @@
 							</div>
 							<div class="single-portfolio col-sm-4 all corporate">
 								<div class="item">
-									<img src="img/p4.jpg" alt="Work 1">
+									<a href="chaos.php" ><img src="img/p4.jpg" alt="Work 1">
 									<div class="p-inner">
 										<h4>Pendulum of Chaos</h4>
 										<div class="cat"> Broadsheet Design</div>
@@ -117,7 +117,7 @@
 							</div>
 							<div class="single-portfolio col-sm-4 all agency">
 								<div class="item">
-									<img src="img/p5.jpg" alt="Work 1">
+									<a href="cell.php" ><img src="img/p5.jpg" alt="Work 1">
 									<div class="p-inner">
 										<h4>Why do Cells split?</h4>
 										<div class="cat">Mobile App Design</div>
@@ -126,7 +126,7 @@
 							</div>
 							<div class="single-portfolio col-sm-4 all corporate">
 								<div class="item">
-									<img src="img/p6.jpg" alt="Work 1">
+									<a href="graphicdesign.php" ><img src="img/p6.jpg" alt="Work 1">
 									<div class="p-inner">
 										<h5>What is Graphic Design?</h5>
 										<div class="cat"> Booklet Design</div>
