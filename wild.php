@@ -83,6 +83,11 @@
 				<div class="row">
 
 					<div class="col-sm-12 col-md-4">
+						<a class="lightbox" href="img/wild/sketch.gif">
+							<img src="img/wild/sketch.gif" alt="sketch">
+						</a>
+					</div>
+					<div class="col-sm-12 col-md-4">
 						<a class="lightbox" href="img/wild/layout.gif">
 							<img src="img/wild/layout.gif" alt="Layout">
 						</a>

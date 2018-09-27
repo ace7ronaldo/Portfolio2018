@@ -47,8 +47,8 @@
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content pb-60 col-lg-10">
 						<div class="title text-center">
-							<h1 class="mb-10 text-white">Unite to Divide, then Divide to Unite</h1>
-							<p><b>Print Media</b></p>
+							<h1 class="mb-10 text-white">Why do Cells split?</h1>
+							<p><b>Mobile App Design</b></p>
 						</div>
 					</div>
 				</div>	
@@ -63,10 +63,10 @@
 
 					<div class="col-lg-4 col-xl-12">
 						<div class="single-service">
-							<h4>With this project I was tasked with creating the beginnings of a sovereign identity system in a technological future imagined for the state of Jammu &amp; Kashmir (located in India). Throughout my explorations, I acted as a critic, using the system I developed to take on a rhetorical position.</h4>
-							<p> The viewer is taken on a journey into a possible dystopian future. The journey begins with the user a brief understanding of the history and the current situation of the state and then dive into new beginnings. As the viewer is introduced to the imagined future they are guided through each element of the sovereign identity system created and the irony of the situation. The viewer is forced acknowledge the looming question of vulnerability associated with the use of technology. </p>
-							<p>This project was published on the AndSo Graduate Journal. </p>
-							<p>This project designed using Adobe InDesign. </p>
+							<h4>Primarily aimed at middle school children, the project explores new ways to present information to engage students.</h4>
+							<p>We can’t deny the digital presence in our lives so the project is presented in the form of a mobile application. The colors used are vibrant and imagery re-imaged for the target audience. As the user progresses through they’re faced with questions. The idea of posing questions to engage active involvement in the learning process. They’re forced to think of possibilities and ask more questions. The videos and illustrations help the student compare and strengthen their understanding of the subject at hand.</p>
+							<p>The application still retains certain features of a printed textbook such as highlighting sentences that the individual user sees as important which they can later print or export. The language used focuses on positives reinforcement so as to not demoralize the student.</p>
+							<p>This project was completed using Adobe Illustrator, Aftereffects and Adobe XD.</p>
 						</div>
 					</div>
 
@@ -84,75 +84,36 @@
 				<div class="row">
 
 					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/sketch.gif">
-							<img src="img/Unite/sketch.gif" alt="sketchwork">
+						<a class="lightbox" href="img/cells/sketch.gif">
+							<img src="img/cells/sketch.gif" alt="sketch">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/flag.gif">
-							<img src="img/Unite/flag.gif" alt="flagwork">
+						<a class="lightbox" href="img/cells/illustrationa.gif">
+							<img src="img/cells/illustrationa.gif" alt="illustration">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/process.gif">
-							<img src="img/Unite/process.gif" alt="process">
+						<a class="lightbox" href="img/cells/cell divison.gif">
+							<img src="img/cells/cell divison.gif" alt="cell division">
 						</a>
 					</div>
 					<div class="col-sm-12 col-md-8">
-						<a class="lightbox" href="img/Unite/mathew5.jpg">
-							<img src="img/Unite/mathew5.jpg" alt="religion">
+						<a class="lightbox" href="img/cells/SAVratio.gif">
+							<img src="img/cells/SAVratio.gif" alt=" sav ratio">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/mathew6.jpg">
-							<img src="img/Unite/mathew6.jpg" alt="state">
+						<a class="lightbox" href="img/cells/screen.gif">
+							<img src="img/cells/screen.gif" alt="screen">
 						</a>
 					</div> 
 					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="fimg/Unite/mathew7.jpg">
-							<img src="img/Unite/mathew7.jpg" alt="vrspace">
+						<a class="lightbox" href="img/cells/phone.jpg">
+							<img src="img/cells/phone.jpg" alt="phone">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4"> 
-						<a class="lightbox" href="img/Unite/mathew10.jpg">
-							<img src="img/Unite/mathew10.jpg" alt="diagram1">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/mathew11.jpg">
-							<img src="img/Unite/mathew11.jpg" alt="diagram2">
-						</a>
-					</div>	
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/mathew12.jpg">
-							<img src="img/Unite/mathew12.jpg" alt="diagram3">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/Plot 1.png">
-							<img src="img/Unite/Plot 1.png" alt="diagram1">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/flag.jpg">
-							<img src="img/Unite/flag.jpg" alt="flag">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/tattoo.jpg">
-							<img src="img/Unite/tattoo.jpg" alt="tattoo">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/JK-poster.jpg">
-							<img src="img/Unite/JK-poster.jpg" alt="poster">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/handheldposter.jpg">
-							<img src="img/Unite/handheldposter.jpg" alt="flag">
-						</a>
-					</div>							
+
 
 				</div>
 
@@ -181,6 +142,3 @@
 	<script> baguetteBox.run('.tz-gallery');</script>
 </body>
 </html>
-
-
-
