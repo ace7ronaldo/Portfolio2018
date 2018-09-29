@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+<title>Projects1</title>
+</head>
+
+<body>
+
+	 <a-scene class="fullscreen" vr-mode-ui="enabled: true" auto-enter-vr>
+		 <!-- define image source under assets-->
+            <a-assets>
+                <!--<a-sky id="test" src="images/test.jpg"></a-sky>-->
+                <img id="shad" alt="shad" src="images/shad.jpg">
+				<img id="back" alt="back" src="images/back.png">
+                <img alt="bree1" id="bree1" src="images/bree1.jpg">
+                <img alt="bree2" id="bree2" src="images/bree2.jpg">
+                <img alt="rachel2" id="rachel2" src="images/rachel2.jpg">
+                <img alt="rachel" id="rachel" src="images/rachel.jpg">
+            </a-assets>
+		 <!--Inserting the image into VR space-->
+		    <!--<a-sky src="#test"></a-sky>-->
+		 	<a-image src="#shad" position="0 5 0"  width="7" height="5"></a-image>
+      		<a-image src="#bree1" position="0 6 10" rotation="0 -180 0" width="7" height="11"></a-image>
+      		<a-image src="#bree2" position="6 6 4" width="7" height="11" rotation="0 90 0"></a-image>
+      		<a-image src="#rachel2" position="-6 6 4.7" rotation="0 90 0" width="7" height="11"></a-image>
+      		<a-image src="#rachel" position="-5.3 2.5 1.5" rotation="0 90 0" width="2" height="3"></a-image>
+      		<a-text font="dejavu" value="give a description about the project and place here" width="6" position="-4.5 1.45 7.15" rotation="0 90 0" color="#191919"></a-text>
+      		<a-text font="dejavu" value="Rachel Paine" width="6" position="-4.5 10.15 7.15" rotation="0 90 0" color="#191919"></a-text>
+      		<a-text font="dejavu" value="Bree McMahon" width="6" position="3.5 11.75 10" rotation="0 -180 0" color="#191919"></a-text>
+      		<a-text font="dejavu" value="give a description about the project and place here" width="6" position="3.5 0.25 10" rotation="0 -180 0" color="#191919"></a-text>"
+      		
+       <!-- edit till here for45images-->
+		 <!-- exit + exit text-->
+			<a-image id="home" src="#back" geometry="primitive: plane; height: 3; width: 2" position="-0.16 2.7 5" rotation="270 0 0" ></a-image>
+		 <!-- end of exit info-->
+		 
+	<!-- Derek's cursor code-->
+         <a-entity position="0 5.3 4">
+				<a-entity camera look-controls wasd-controls>
+					  <a-entity position="0 0 -3"
+								geometry="primitive: ring; radiusOuter: 0.30;
+										  radiusInner: 0.20;"
+								material="color: #FF534B; shader: flat"
+								cursor="maxDistance: 30; fuse: true">
+						<a-animation begin="click" easing="ease-in" attribute="scale"
+							 fill="backwards" from="0.1 0.1 0.1" to="1 1 1" dur="150"></a-animation>
+						<a-animation begin="fusing" easing="ease-in" attribute="scale"
+							 fill="forwards" from="1 1 1" to="0.1 0.1 0.1" dur="1500"></a-animation>
+					  </a-entity>
+				</a-entity>
+  		</a-entity>
+		<!-- end of cursor code-->
+		 
+     </a-scene>
+		<!-- code to exit this room-->
+		<script>
+         	var box = document.querySelector( '#home' );
+		 	box.addEventListener('mouseenter', function () {
+  				window.location.href = 'index.html';
+			});
+        </script>
+
+</body>
+</html>

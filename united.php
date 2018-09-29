@@ -65,8 +65,9 @@
 						<div class="single-service">
 							<h4>With this project I was tasked with creating the beginnings of a sovereign identity system in a technological future imagined for the state of Jammu &amp; Kashmir (located in India). Throughout my explorations, I acted as a critic, using the system I developed to take on a rhetorical position.</h4>
 							<p> The viewer is taken on a journey into a possible dystopian future. The journey begins with the user a brief understanding of the history and the current situation of the state and then dive into new beginnings. As the viewer is introduced to the imagined future they are guided through each element of the sovereign identity system created and the irony of the situation. The viewer is forced acknowledge the looming question of vulnerability associated with the use of technology. </p>
-							<p>This project was published on the <a href="https://design.ncsu.edu/andso/2018/06/01/unite-to-divide-then-divide-to-unite/"AndSo Graduate Journal. </a></p>
+							<p>This project was published on the <a href="https://design.ncsu.edu/andso/2018/06/01/unite-to-divide-then-divide-to-unite/"AndSo Graduate Journal.> AndSo Graduate Journal </a></p>
 							<p>This project designed using Adobe InDesign. </p>
+							<p><a href="propaganda copy/girl.html"> Click to enter hypothetical VR news space</a></p>
 						</div>
 					</div>
 

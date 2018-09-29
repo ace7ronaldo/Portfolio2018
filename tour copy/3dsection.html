@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>3D models</title>
+    <meta charset="UTF-8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+    <script src="https://aframe.io/releases/0.6.0/aframe.min.js"></script>
+  </head> 
+<body>
+<a-scene>
+     
+    <a-assets>
+			<img id="back" alt="back" src="images/back.png">
+    	  <a-asset-item 
+    	  	id="randaobject" src="models/randaobject.obj"></a-asset-item>
+    	  <a-asset-item 
+    	  	id="ashleyobject" src="models/ashleyobject.obj"></a-asset-item>
+    	  <a-asset-item 
+    	  	id="ashamsaobject" src="models/ashamsaobject.obj"></a-asset-item>
+    	   <a-asset-item 
+    	  	id="dmitriobject" src="models/dmitriobject.obj"></a-asset-item>
+    	  <a-asset-item 
+    	  	id="table" src="models/table.obj"></a-asset-item>
+    	  <a-assets><video 
+    	  	id="nortonvideo" autoplay loop src="videos/nortonvideo.mp4"></video></a-assets>
+    	  <a-assets><video 
+    	  	id="maharajvideo" autoplay loop src="videos/maharajvideo.mp4"></video></a-assets>
+		  <a-assets><video 
+    	  	id="ashleyvideo" autoplay loop src="videos/ashleyvideo.mp4"></video></a-assets>
+		  <a-assets><video 
+    	  	id="katievideo" autoplay loop src="videos/katievideo.mp4"></video></a-assets>
+		  
+   	</a-assets>   
+   	
+    <a-light color="white" position="-1 1 0"></a-light>  
+   			
+	<a-entity 	
+			obj-model="obj: #table"
+          	scale="1 .75 .5"
+			position="3 -20 -15"
+			rotation="0 0 0"></a-entity>
+	
+	<a-entity 	
+			obj-model="obj: #randaobject" 
+          	scale=".5 .5 .5"
+			position="-24 -7 -12"
+			rotation="-45 0 0"></a-entity>
+	
+	<a-entity 	
+			obj-model="obj: #ashleyobject" 
+          	scale=".5 .5 .5"
+			position="3 -5 -15"
+			rotation="0 0 0"></a-entity>
+	
+	<a-entity 	
+			obj-model="obj: #ashamsaobject" 
+          	scale="1.25 1.25 1.25"
+			position="-13 -5 -15"
+			rotation="0 35 0"></a-entity>
+				
+	<a-entity 	
+			obj-model="obj: #dmitriobject" 
+          	scale=".15 .15 .15"
+			position="2 -2 -11"
+			rotation="0 25 0"></a-entity>	
+	
+	 <a-text
+	 		font="dejavu" 
+	 		value="3D Printing" 
+	 		width="30" 
+	 		position="2 7 -11" 
+	 		rotation="0 0 0" 	
+	 		color="#191919"></a-text>
+	 
+	 <a-text
+	 		font="dejavu" 
+	 		value="3D Animation" 
+	 		width="30" 
+	 		position="-1 10 11" 
+	 		rotation="0 180 0" 	
+	 		color="#191919"></a-text>
+	 		
+	 <a-video	
+			src="#maharajvideo"
+          	width="8"
+          	height="5"
+			position="5 5.5 11" 
+			rotation="0 180 0"></a-video>
+	
+	 <a-video	
+			src="#nortonvideo"
+          	width="8"
+          	height="5"
+			position="-5 5.5 11" 
+			rotation="0 180 0"></a-video>
+	
+	<a-video	
+			src="#ashleyvideo"
+          	width="8"
+          	height="5"
+			position="-5 -1 11" 
+			rotation="0 180 0"></a-video>
+	
+	<a-video	
+			src="#katievideo"
+          	width="8"
+          	height="5"
+			position="5 -1 11" 
+			rotation="0 180 0"></a-video>
+				
+	<a-sky 
+		  	src="images/panoform.jpg" rotation="0 0 0"></a-sky>
+     <!--exit + exit text-->
+			<a-image id="home" src="#back" geometry="primitive: plane; height: 7; width: 5" position="-6.634 2.457 0.289" rotation="0 90 0" ></a-image>
+		 <!-- end of exit info-->
+	<!-- Derek's cursor code-->
+             <a-entity position="0 2.2 4">
+				<a-entity camera look-controls wasd-controls>
+					  <a-entity position="0 0 -3"
+								geometry="primitive: ring; radiusOuter: 0.30;
+										  radiusInner: 0.20;"
+								material="color: #FF534B; shader: flat"
+								cursor="maxDistance: 30; fuse: true">
+						<a-animation begin="click" easing="ease-in" attribute="scale"
+							 fill="backwards" from="0.1 0.1 0.1" to="1 1 1" dur="150"></a-animation>
+						<a-animation begin="fusing" easing="ease-in" attribute="scale"
+							 fill="forwards" from="1 1 1" to="0.1 0.1 0.1" dur="1500"></a-animation>
+					  </a-entity>
+				</a-entity>
+  		</a-entity>
+		<!-- end of cursor code-->
+	<script>
+         	var box = document.querySelector( '#home' );
+		 	box.addEventListener('click', function () {
+  				window.location.href = 'index.html';
+			});
+        </script>
+</a-scene>
+</body>
+</html>

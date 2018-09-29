@@ -30,8 +30,9 @@
 
 		<style>
 			#typedintro {
+				<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:500" rel="stylesheet">
 				color: white;
-				font-size: 1.4rem;
+				font-size: 1.4 rem;
 			}
 		</style>
 	</head>
@@ -170,9 +171,13 @@
 		<script>
 			var options = {
 				strings: [
-				"mini about me thing^500",
-				"curious^500",
-				"add more sentences in the javascript^500"
+				"Hello^1000",
+				"I'm Ashamsa Mathew^1000",
+				"I'm currently doing my Masters in Graphic Design^1000",
+				"I'm an aspiring Designer and forever experimenting^1000",
+				"well... why not?^1000",
+				"I'm a curious bee^1000",
+				"Hope you enjoy the visit^1000"
 				],
 				typeSpeed: 30,				
 			}

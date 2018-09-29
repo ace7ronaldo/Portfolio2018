@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+<title>Projects</title>
+</head>
+
+<body>
+
+	 <a-scene class="fullscreen" vr-mode-ui="enabled: true" auto-enter-vr>
+		 <!-- define image source under assets-->
+            <a-assets>
+                <img id="sky" alt="sky" src="images/sky.jpg">
+                <img id="amber" alt="veggie-mart" src="images/ingram.jpg">
+				<img id="mac4" alt="mac4" src="images/mac4.jpg">
+				<img id="back" alt="back" src="images/back.png">
+                <img id="amber1" alt="amber1" src="images/amber1.png">
+                <img id="mac3" alt="mac3" src="images/mac3.jpg">
+                <img id="mac1" alt="mac4" src="images/mac1.jpg">
+                <img id="mac5" alt="mac5" src="images/mac5.jpg">
+                <video id="macvideo" autoplay loop src="images/1.mp4"></video>
+            </a-assets>
+		 <!--Inserting the image into VR space-->
+            <a-sky src="#sky"></a-sky>
+            <a-image src="#amber" position="0 6.5 10" rotation="0 -180 0" width="7" height="5"></a-image>
+		 	<a-image src="#mac4" position="0 6.5 0"  width="8" height="5"></a-image>
+            <a-image src="#amber1" position="6 7 5" width="10" height="7" rotation="0 -90 0"></a-image>
+            <a-image src="#mac3" position="-4.5 6.5 5" rotation="0 90 0" width="8" height="5"></a-image>
+            <a-image src="#mac1" scale="2 1.7 1.7" position="-2.3 4 1.4" opacity="1"></a-image>
+            <a-image src="#mac5" scale="3 2.3 2.3" position="-4 9 2.3" rotation="0 90 0"></a-image>
+            <a-text font="dejavu" value="Mac Hill" width="6" position="-2.5 8 1.4"
+			color="#191919"></a-text>
+      		<a-text font="dejavu" value="Fall 2017" width="6" position="-4.5 9.25 9" rotation="0 90 0" color="#191919"></a-text>
+      		<a-text font="dejavu" value="give a description about the project and place here" width="6" position="-4.5 3.75 9" rotation="0 90 0" color="#191919"></a-text>
+      		<a-text font="dejavu" value="Amber Ingram" width="6" position="6 11 0" rotation="0 -90 0" color="#191919"></a-text>
+      		<a-text font="dejavu" value="Fall 2016" width="6" position="2.85 8.5 9" rotation="0 -180 0" color="#191919"></a-text>
+      		<a-text font="dejavu" value="give a description about the project and place here" width="6" position="6 3.25 0" rotation="0 -90 0" color="#191919"></a-text>
+      		<a-video src="#macvideo" width="3" height="2" position="-2.3 4 1.4"></a-video>
+      		
+       <!-- edit till here for images-->
+		 <!--exit + exit text-->
+			<a-image id="home" src="#back" geometry="primitive: plane; height: 3; width: 2" position="0.4 2.7 5" rotation="270 0 0" ></a-image>
+		 <!-- end of exit info-->
+		 
+			<!-- Derek's cursor code-->
+         <a-entity position="0 5.3 4">
+				<a-entity camera look-controls wasd-controls>
+					  <a-entity position="0 0 -3"
+								geometry="primitive: ring; radiusOuter: 0.30;
+										  radiusInner: 0.20;"
+								material="color: #FF534B; shader: flat"
+								cursor="maxDistance: 30; fuse: true">
+						<a-animation begin="click" easing="ease-in" attribute="scale"
+							 fill="backwards" from="0.1 0.1 0.1" to="1 1 1" dur="150"></a-animation>
+						<a-animation begin="fusing" easing="ease-in" attribute="scale"
+							 fill="forwards" from="1 1 1" to="0.1 0.1 0.1" dur="1500"></a-animation>
+					  </a-entity>
+				</a-entity>
+  		</a-entity>
+		<!-- end of cursor code-->
+		 
+     </a-scene>
+		<!-- code to exit this room-->
+		<script>
+         	var box = document.querySelector( '#home' );
+		 	box.addEventListener('mouseenter', function () {
+  				window.location.href = 'index.html';
+			});
+        </script>
+
+
+</body>
+</html>

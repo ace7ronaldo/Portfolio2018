@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+  <head>
+    <title>Text</title>
+    <meta name="description" content="Text - A-Frame">
+<meta name="apple-mobile-web-app-capable" content="yes">
+	<script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script> <!-- This is linking the aframe library-->
+	<script src="https://unpkg.com/aframe-event-set-component@3.0.3/dist/aframe-event-set-component.min.js"></script>
+	 <script src="https://rawgit.com/mayognaise/aframe-gif-shader/master/dist/aframe-gif-shader.min.js"></script> 
+  	<script src="https://rawgit.com/mayognaise/aframe-gif-component/master/dist/aframe-gif-component.min.js"></script>
+	  <script src="https://unpkg.com/aframe-text-geometry-component@0.5.1/dist/aframe-text-geometry-component.min.js"></script>
+  </head>
+  <body>
+    <a-scene  vr-mode-ui auto-enter-vr>
+		<!---Image library for the news plane-->
+		<a-assets>
+        <img id="sky" alt="bg" src="https://img.gs/bbdkhfbzkk/2048x2048,stretch/http://i.imgur.com/WqlqEkq.jpg" crossorigin="anonymous" />
+		<img id="nn" alt="national news" src="nn.png"/>
+		<img id="in" alt="international news" src="in.png"/>
+		<img id="food" alt="food" src="food.png"/>
+		<img id="art" alt="art" src="art.png"/>
+		<img id="sports" alt="sports" src="sports.png"/>
+		<img id="tech" alt="technology news" src="tech.png"/>
+		<img id="more" alt="more news" src="more.png"/>
+		<img id="rape" alt="rape_news" src="rape.png"/>
+		<img id="stat" alt="stat" src="stat.png"/>
+		<img id="tour" alt="tour" src="ft-03.png"/>
+		<img id="ouch" alt="injured" src="o.png"/>
+		<img id="dummy" alt="dummy" src="dummy.png">
+      </a-assets>
+		<a-sky src="#sky" rotation="0 -90 0"></a-sky>
+		<!--Light and gifs-->
+	  <a-entity light="color: #ccccff; intensity: 1; type: ambient;" visible=""></a-entity>
+      <a-entity light="color: ffaaff; intensity: 1.5" position="5 5 5"></a-entity>
+      <a-entity light="color: white; intensity: 0.5" position="-5 5 15"></a-entity>
+      <a-entity light="color: white; type: ambient;"></a-entity>
+	  <a-entity geometry="primitive:box; height: 0.85; width: 3.72" material="shader:gif;src:url(jk.gif);" gif="" position="0 3.4 -4"></a-entity>
+	  <a-entity geometry="primitive:plane; height: 0.85; width: 3.72" material="shader:gif;src:url(swishgif.gif);" gif="" position="4.5 3 -3.6" rotation="0 -35 0"></a-entity>
+		<!--News plane-->
+	
+		<a-image src="#nn" geometry="primitive: plane; height: 2; width: 1.5" position="0 1 -5" ></a-image>
+		<a-image src="#in" geometry="primitive: plane; height: 2; width: 3" position="4.2 1 -3" rotation="0 -45 0"></a-image>
+		<a-image src="#food" geometry="primitive: plane; height: 2; width: 3" position="-1.3 4.8 0.3" rotation="90 0 0" ></a-image>
+		<a-image src="#art" geometry="primitive: plane; height: 2; width: 3" position="1.6 -2.1 1" rotation="-90 0 0"></a-image>
+		<a-image src="#sports" geometry="primitive: plane; height: 2; width: 3" position="-4.8 1.5 0.2" rotation="0 90 0"></a-image>
+		<a-image src="#more" geometry="primitive: plane; height: 2; width: 3" position="0.8 0.9 3.7" rotation="0 180 0"></a-image>
+		<a-image src="#tech" geometry="primitive: plane; height: 2; width: 3" position="4.1 0.3 2.3" rotation="0 -135 0" ></a-image>
+		<a-image src="#rape" geometry="primitive: plane; height: 2; width: 3" position="-1.7 1.6 -2" rotation="0 45 0"></a-image>
+		<a-image src="#stat" geometry="primitive: plane; height: 1; width: 3" position="1.3 2.3 -4" rotation="0 -45 0"></a-image>
+		<a-image src="#tour" geometry="primitive: plane; height: 1; width: 2" position="2.2 0.9 -3.9" rotation="-35 -35 0"></a-image>
+		<a-image src="#ouch" geometry="primitive: plane; height: 3; width: 2" position="5.7 2.8 -0.7" rotation="0 -90 0"></a-image>
+		<a-image src="#dummy" geometry="primitive: plane; height: 3; width: 2" position="1.3 11 0.5" rotation="90 0 0"></a-image>
+		<a-image src="#dummy" geometry="primitive: sphere; radius: 2" position="1.2 -2 1" rotation="-90 0 0"></a-image> 
+		<a-image src="#dummy" geometry="primitive: sphere; radius: 2" position="1.2 -2 1" rotation="-90 0 0"></a-image>
+		<a-image src="#dummy" geometry="primitive: ring; radiusInner: 0.5; radiusOuter: 1" material="side: double" position="-4 2 0.2" rotation="0 90 0"></a-image>
+		<a-image src="#dummy" geometry="primitive: ring; radiusInner: 1; radiusOuter: 2" material="side: double" position="5 3 3" rotation="0 -135 0"></a-image>
+		<a-image src="#dummy" geometry="primitive: box; height: 4; width: 3.72"  position="-2.2. 2 13" rotation="35 180 25"></a-image>
+		<a-camera position="0 1.4 -0.2" camera="active: true; userHeight: 1.6">
+                <a-cursor color="#FF0000"></a-cursor>xs
+        </a-camera>	
+	</a-scene>
+  </body>
+</html>
