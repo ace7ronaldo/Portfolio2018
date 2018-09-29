@@ -44,6 +44,16 @@
 		color: white;
 		font-size: 2rem;
 	}
+
+	.item a {
+		color: #000;
+	}
+
+	.item a:hover {		
+		color: #8ab92d;
+	}
+
+
 </style>
 </head>
 <body>
