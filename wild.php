@@ -34,12 +34,12 @@
 	<link rel="stylesheet" href="css/projectpage.css">
 </head>
 <body>
+
+	<!-- Start Header Area -->
+	<?php include("header.php"); ?>
+	<!-- End Header Area -->
+
 	<div class="protfolio-wrap">
-
-		<!-- Start Header Area -->
-		<?php include("header.php"); ?>
-		<!-- End Header Area -->
-
 
 		<!-- Start service Area -->
 		<section class="service-area section-gap relative" id="service">
@@ -152,8 +152,8 @@
 
 		<!--end gallery area-->
 
-		<?php include("footer.php"); ?>
 	</div>
+	<?php include("footer.php"); ?>
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="js/vendor/bootstrap.min.js"></script>			

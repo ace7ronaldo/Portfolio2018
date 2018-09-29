@@ -31,7 +31,12 @@
 
 	<style>
 	.protfolio-wrap {
-		margin: 0;
+		/*margin: 0;*/
+	}
+
+	.banner-area {
+		margin-top: -72px;
+		border-radius: 0;
 	}
 
 	#typedintro {
@@ -42,7 +47,6 @@
 </style>
 </head>
 <body>
-	<div class="protfolio-wrap">
 
 		<!-- Start Header Area -->
 		<?php include("header.php"); ?>
@@ -61,6 +65,7 @@
 		</section>
 		<!-- End banner Area -->	
 
+	<div class="protfolio-wrap">
 		<!-- Start portfolio-area Area -->	
 		<section class="portfolio-area section-gap" id="portfolio">
 			<div class="container">
@@ -154,16 +159,15 @@
 						</div>							  
 
 					</div>
-				</div>
-				<<<<<<< HEAD
+				</div>				
 
 			</div>
 		</section>
 		<!-- End portfolio-area Area -->	
 
-		<?php include("footer.php"); ?>
 
 	</div>
+	<?php include("footer.php"); ?>
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="js/vendor/bootstrap.min.js"></script>			
