@@ -2,7 +2,7 @@
 	<nav class="navbar navbar-expand-lg  navbar-light">
 		<div class="container">
 			<a class="navbar-brand" href="index">
-				<img src="img/logo.png" alt="">
+				<img src="img/logo copy.png" alt="">
 			</a>
 
 			<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
