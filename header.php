@@ -8,8 +8,7 @@
 			<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 				<ul class="navbar-nav">
 					<li><a href="index">Home</a></li>
-					<li><a href="index#portfolio">Portfolio</a></li>
-					<li><a href="#">About</a></li>
+					<li><a href="index#portfolio">Portfolio</a></li>					
 				</ul>
 			</div>						
 		</div>
