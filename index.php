@@ -17,7 +17,7 @@
 		<title>Portfolio</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:500" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
 
 		<!--CSS============================================= -->
 		<link rel="stylesheet" href="css/linearicons.css">
@@ -33,7 +33,7 @@
 			#typedintro {
 				font-family: "Roboto Mono";
 				color: white;
-				font-size: 1.4 rem;
+				font-size: 2rem;
 			}
 		</style>
 	</head>
@@ -175,7 +175,7 @@
 				"Hello^1000",
 				"I'm Ashamsa Mathew^1000",
 				"I'm currently doing my Masters in Graphic Design^1000",
-				"I'm an aspiring Designer and forever experimenting^1000",
+				"I'm an aspiring designer and forever experimenting^1000",
 				"well... why not?^1000",
 				"I'm a curious bee^1000",
 				"Hope you enjoy the visit^1000"
