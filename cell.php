@@ -28,18 +28,18 @@
 	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href ="css/gallery.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
 	<link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
 	<link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css">
 	<link rel="stylesheet" href="css/projectpage.css">
 </head>
 <body>
-	<div class="protfolio-wrap">
 
 		<!-- Start Header Area -->
 		<?php include("header.php"); ?>
 		<!-- End Header Area -->
 
+	<div class="protfolio-wrap">
 
 		<!-- Start service Area -->
 		<section class="service-area section-gap relative" id="service">

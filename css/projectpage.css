@@ -1,17 +1,6 @@
-.navbar {
-	/*margin-bottom: 20px;*/
-}
-
-a.navbar-brand {
-	margin-top: -10px;
-}
-
-#navbarSupportedContent {
-	margin-top: 20px;
-}
-
 body {
 	padding-bottom: 0;
+	background: #fff;
 }
 
 .protfolio-wrap {
