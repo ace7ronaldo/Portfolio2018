@@ -203,7 +203,8 @@
 			"I'm a curious bee^1000",
 			"Hope you enjoy exploring!^1000"
 			],
-			typeSpeed: 30,				
+			typeSpeed: 30,
+			loop: true
 		}
 
 		var typed = new Typed("#typedintro", options);
