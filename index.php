@@ -200,7 +200,6 @@
 			"I'm currently doing my Masters in Graphic Design^1000",
 			"I'm an aspiring designer and forever experimenting^1000",
 			"well... why not?^1000",
-			"I'm a curious bee^1000",
 			"Hope you enjoy exploring!^1000"
 			],
 			typeSpeed: 30,
