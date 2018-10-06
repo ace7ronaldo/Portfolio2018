@@ -65,7 +65,7 @@
 					<div class="col-lg-4 col-xl-12">
 						<div class="single-service">
 							<h4>College visits tend to be integral part of deciding where to go to study or if the place fits your focus area. Sometimes time or distance does not permit an individual to visit a college. This project aims to resolve this issue by designing a virtual experience.</h4>
-							<p> When a user enters the website, they enter a studio session which helps them visualize the environment they’ll be working in. As they look around they’ll be able to see the kind of projects students produce and if it aligns with their interest. The user is able to get a realistic tour of w8hat the college offers and what it really does. </p>
+							<p> When a user enters the website, they enter a studio session which helps them visualize the environment they’ll be working in. As they look around they’ll be able to see the kind of projects students produce and if it aligns with their interest. The user is able to get a realistic tour of what the college offers and what it really does. </p>
 							<p>The basic data used to build the user profile was the individual experiences of the MGD students who go to NC State. </p>
 							<p>This project was built using A-frame.</p>
 							<p><a href="tour copy/index.html">Click here to enter the tour</a></p>

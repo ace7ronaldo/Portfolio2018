@@ -42,7 +42,7 @@
 	#typedintro {
 		font-family: "Roboto Mono";
 		color: white;
-		font-size: 2rem;
+		font-size: 1.8rem;
 	}
 
 	.item a {
@@ -51,6 +51,24 @@
 
 	.item a:hover {		
 		color: #8ab92d;
+	}
+
+	@media screen and (max-width: 972px) {
+		#typedintro {
+			font-size: 1.4rem;
+		}
+	}
+
+	@media screen and (max-width: 768px) {
+		#typedintro {
+			font-size: 1rem;
+		}
+	}
+
+	@media screen and (max-width: 500px) {
+		#typedintro {
+			font-size: 0.85rem;
+		}
 	}
 
 
@@ -197,8 +215,8 @@
 			strings: [
 			"Hello!^1000",
 			"I'm Ashamsa Mathew^1000",
-			"I'm currently doing my Masters in Graphic Design^1000",
-			"I'm an aspiring designer and forever experimenting^1000",
+			"I'm doing my Master's in Graphic Design^1000",
+			"I'm an aspiring designer and always experimenting^1000",
 			"well... why not?^1000",
 			"Hope you enjoy exploring!^1000"
 			],
