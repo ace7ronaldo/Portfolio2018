@@ -216,7 +216,7 @@
 			"Hello!^1000",
 			"I'm Ashamsa Mathew^1000",
 			"I'm doing my Master's in Graphic Design^1000",
-			"I'm an aspiring designer and always experimenting^1000",
+			"I'm an aspiring designer and forever experimenting^1000",
 			"well... why not?^1000",
 			"Hope you enjoy exploring!^1000"
 			],
