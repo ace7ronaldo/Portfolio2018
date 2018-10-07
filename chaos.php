@@ -127,6 +127,10 @@
 							<img src="img/chaos/3cover.jpg" alt="cover print">
 						</a>
 					</div>
+					<div class="col-sm-12 col-md-4"> 
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/U8UZPe1sVmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+						</a>
+					</div>
 
 				</div>
 

@@ -103,8 +103,16 @@
 							<img src="img/certainly uncertain/laptop.jpg" alt="laptop">
 						</a>
 					</div>
-					
-					</div>							
+					<div class="col-sm-12 col-md-8">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/CQADgzthWPw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+					<div class="col-sm-12 col-md-8">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/TCHhfb3WSAA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+					</div>
+				<div class="col-sm-12 col-md-8">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/KM2iC-n0FnI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
 
 				</div>
 

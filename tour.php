@@ -119,7 +119,10 @@
 						<a class="lightbox" href="img/Tour/studio.JPG">
 							<img src="img/Tour/studio.JPG" alt="360 image">
 						</a>
-					</div>					
+					</div>	
+					<div class="col-sm-12 col-md-4">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/T3SuhH2u_HY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
 
 				</div>
 

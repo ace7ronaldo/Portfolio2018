@@ -95,6 +95,9 @@
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-4">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/G45-BAa_dCs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+					<div class="col-sm-6 col-md-4">
 						<a class="lightbox" href="img/cells/cell divison.gif">
 							<img src="img/cells/cell divison.gif" alt="cell division">
 						</a>
@@ -113,6 +116,9 @@
 						<a class="lightbox" href="img/cells/phone.jpg">
 							<img src="img/cells/phone.jpg" alt="phone">
 						</a>
+					</div>
+					<div class="col-sm-6 col-md-4">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/4naa2fnYtxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					</div>
 
 
