@@ -16,7 +16,7 @@
 	<!-- Site Title -->
 	<title>Portfolio</title>
 
-	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
 
 	<!--CSS============================================= -->
@@ -24,7 +24,7 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="css/nice-select.css">					
+	<link rel="stylesheet" href="css/nice-select.css">
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/main.css">
@@ -49,7 +49,7 @@
 		color: #000;
 	}
 
-	.item a:hover {		
+	.item a:hover {
 		color: #8ab92d;
 	}
 
@@ -78,10 +78,10 @@
 
 		<!-- Start Header Area -->
 		<?php include("header.php"); ?>
-		<!-- End Header Area -->	
+		<!-- End Header Area -->
 
 		<!-- start banner Area -->
-		<section class="banner-area relative" id="home">	
+		<section class="banner-area relative" id="home">
 			<div class="overlay overlay-bg"></div>
 			<div class="container">
 				<div class="row fullscreen d-flex align-items-center justify-content-center">
@@ -91,10 +91,10 @@
 				</div>
 			</div>
 		</section>
-		<!-- End banner Area -->	
+		<!-- End banner Area -->
 
 	<div class="protfolio-wrap">
-		<!-- Start portfolio-area Area -->	
+		<!-- Start portfolio-area Area -->
 		<section class="portfolio-area section-gap" id="portfolio">
 			<div class="container">
 				<div class="row d-flex justify-content-center">
@@ -127,7 +127,7 @@
 						</div>
 						<div class="single-portfolio col-sm-4 all agency">
 							<div class="item">
-								<a href="tour" ><img src="img/p2.jpg" alt="Work 1"> 
+								<a href="tour" ><img src="img/p2.jpg" alt="Work 1">
 									<div class="p-inner">
 										<h4>Tour</h4>
 										<div class="cat"> Web VR</div>
@@ -137,13 +137,13 @@
 						</div>
 						<div class="single-portfolio col-sm-4 all corporate">
 							<div class="item">
-								<a href="united" ><img src="img/p3.jpg" alt="Work 1">
+								<a href="unite" ><img src="img/p3.jpg" alt="Work 1">
 									<div class="p-inner">
 										<h5>Unite to Divide then Divide to Unite</h5>
 										<div class="cat"> Poster Design</div>
 									</div>
 								</a>
-							</div>									
+							</div>
 						</div>
 						<div class="single-portfolio col-sm-4 all corporate">
 							<div class="item">
@@ -157,10 +157,10 @@
 						</div>
 						<div class="single-portfolio col-sm-4 all agency">
 							<div class="item">
-								<a href="cell" ><img src="img/p5.jpg" alt="Work 1">
+								<a href="inspiration wall" ><img src="img/p5 copy.jpg" alt="Work 1">
 									<div class="p-inner">
-										<h4>Why do Cells split?</h4>
-										<div class="cat">Mobile App Design</div>
+										<h4>Inspiration Wall</h4>
+										<div class="cat">UI/UX</div>
 									</div>
 								</a>
 							</div>
@@ -174,7 +174,7 @@
 									</div>
 								</a>
 							</div>
-						</div>	
+						</div>
 						<div class="single-portfolio col-sm-4 all agency">
 							<div class="item">
 								<a href="uncertain" ><img src="img/p7.jpg" alt="Work 1">
@@ -184,31 +184,31 @@
 									</div>
 								</a>
 							</div>
-						</div>							  
+						</div>
 
 					</div>
-				</div>				
+				</div>
 
 			</div>
 		</section>
-		<!-- End portfolio-area Area -->	
+		<!-- End portfolio-area Area -->
 
 
 	</div>
 	<?php include("footer.php"); ?>
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="js/vendor/bootstrap.min.js"></script>			
-	<script src="js/easing.min.js"></script>			
+	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="js/easing.min.js"></script>
 	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>	
-	<script src="js/owl.carousel.min.js"></script>			
-	<script src="js/jquery.sticky.js"></script>			
-	<script src="js/jquery.nice-select.min.js"></script>			
-	<script src="js/parallax.min.js"></script>	
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.sticky.js"></script>
+	<script src="js/jquery.nice-select.min.js"></script>
+	<script src="js/parallax.min.js"></script>
 	<script src="js/mail-script.js"></script>
-	<script src="js/isotope.pkgd.min.js"></script>	
-	<script src="js/main.js"></script>	
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/main.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
 	<script>
 		var options = {
