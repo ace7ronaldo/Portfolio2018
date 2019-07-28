@@ -157,7 +157,7 @@
 						</div>
 						<div class="single-portfolio col-sm-4 all agency">
 							<div class="item">
-								<a href="Inspiration Wall" ><img src="img/p5 copy.jpg" alt="Work 1">
+								<a href="inspirationwall" ><img src="img/p5 copy.jpg" alt="Work 1">
 									<div class="p-inner">
 										<h4>inspirationwall</h4>
 										<div class="cat">UI/UX</div>
