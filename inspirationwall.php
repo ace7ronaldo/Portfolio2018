@@ -49,7 +49,7 @@
 					<div class="menu-content pb-60 col-lg-10">
 						<div class="title text-center">
 							<h1 class="mb-10 text-white">Inspiration Wall</h1>
-							<p><b>User Experience</b></p>
+							<p><b>UI/UX</b></p>
 						</div>
 					</div>
 				</div>
@@ -64,7 +64,7 @@
 
 					<div class="col-lg-4 col-xl-12">
 						<div class="single-service">
-							<h4>With this project we were tasked with creating an user experience for a car enthusiast when visiting a parts store. The project focuses on data usage for seamless and engaging expierence while reinforcing trust.</h4>
+							<h4>With this project we were tasked with creating a user experience for a car enthusiast when visiting a parts store. The project focuses on data usage for seamless and engaging expierence while reinforcing trust.</h4>
 							<p> The user is kept engaged in the store, while the store sales workforce do their work. The user can get curated content on the inspiration while they wait and can browse as well as add parts to their profile. The information is kept private and gives the user control over their data. Through this we look at keeping user control over their information in a commerical environment. </p>
 							<p>This project was a collaborative effort of Grce Herndon, Michele D'Souza, Matthew Maharaj and myself. </p>
 						</div>
