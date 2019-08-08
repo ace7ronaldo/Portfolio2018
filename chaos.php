@@ -17,13 +17,13 @@
 	<!-- Site Title -->
 	<title>Portfolio</title>
 
-	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<!-- =================== CSS ======================== -->
 	<link rel="stylesheet" href="css/linearicons.css">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="css/nice-select.css">					
+	<link rel="stylesheet" href="css/nice-select.css">
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/main.css">
@@ -43,7 +43,7 @@
 
 		<!-- Start service Area -->
 		<section class="service-area section-gap relative" id="service">
-			<div class="overlay overlay-bg"></div>	
+			<div class="overlay overlay-bg"></div>
 			<div class="container">
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content pb-60 col-lg-10">
@@ -52,8 +52,8 @@
 							<p><b>Broadsheet Design</b></p>
 						</div>
 					</div>
-				</div>	
-			</div>	
+				</div>
+			</div>
 		</section>
 		<!-- End service Area -->
 
@@ -70,7 +70,7 @@
 					</div>
 
 				</div>
-			</div>	
+			</div>
 		</section>
 		<!-- End services Area -->
 
@@ -79,10 +79,11 @@
 		<div class="container gallery-container">
 
 			<div class="tz-gallery">
+				<h2>Process work</h2>
 
 				<div class="row">
 
-					<div class="col-sm-12 col-md-4">
+					<div class="col-sm-12 col-md-8">
 						<a class="lightbox" href="img/chaos/process1.gif">
 							<img src="img/chaos/process1.gif" alt="cover process">
 						</a>
@@ -92,42 +93,47 @@
 							<img src="img/chaos/version1.gif" alt="cover v1">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
+					<div class="col-sm-6 col-md-6">
+						<a class="lightbox" href="img/chaos/version-1.gif">
+							<img src="img/chaos/version-1.gif" alt="body v1">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-6">
 						<a class="lightbox" href="img/chaos/meh.jpg">
 							<img src="img/chaos/meh.jpg" alt="collage 1">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-8">
+
+					<div class="col-sm-12 col-md-6">
 						<a class="lightbox" href="img/chaos/rebelwithoutacause.jpg">
 							<img src="img/chaos/rebelwithoutacause.jpg" alt="collage 2">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/chaos/version-1.gif">
-							<img src="img/chaos/version-1.gif" alt="body v1">
-						</a>
-					</div> 
+
+				</div>
+					<h2>End Solution</h2>
+					<div class="row">
 					<div class="col-sm-6 col-md-4">
 						<a class="lightbox" href="img/chaos/cover.gif">
 							<img src="img/chaos/cover.gif" alt="cover">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4"> 
+					<div class="col-sm-12 col-md-4">
 						<a class="lightbox" href="img/chaos/version-2-1.gif">
 							<img src="img/chaos/version-2-1.gif" alt="option 1">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4"> 
+					<div class="col-sm-12 col-md-4">
 						<a class="lightbox" href="img/chaos/version-2-2.gif">
 							<img src="img/chaos/version-2-2.gif" alt="option 2">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4"> 
+					<div class="col-sm-12 col-md-4">
 						<a class="lightbox" href="img/chaos/3cover.jpg">
 							<img src="img/chaos/3cover.jpg" alt="cover print">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4"> 
+					<div class="col-sm-12 col-md-4">
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/U8UZPe1sVmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 						</a>
 					</div>
@@ -144,17 +150,17 @@
 	<?php include("footer.php"); ?>
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="js/vendor/bootstrap.min.js"></script>			
-	<script src="js/easing.min.js"></script>			
+	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="js/easing.min.js"></script>
 	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>	
-	<script src="js/owl.carousel.min.js"></script>			
-	<script src="js/jquery.sticky.js"></script>			
-	<script src="js/jquery.nice-select.min.js"></script>			
-	<script src="js/parallax.min.js"></script>	
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.sticky.js"></script>
+	<script src="js/jquery.nice-select.min.js"></script>
+	<script src="js/parallax.min.js"></script>
 	<script src="js/mail-script.js"></script>
-	<script src="js/isotope.pkgd.min.js"></script>	
-	<script src="js/main.js"></script>	
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/main.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 	<script> baguetteBox.run('.tz-gallery');</script>
 </body>
