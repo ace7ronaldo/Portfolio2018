@@ -48,8 +48,8 @@
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content pb-60 col-lg-10">
 						<div class="title text-center">
-							<h1 class="mb-10 text-white">Inspiration Wall</h1>
-							<p><b>UI/UX</b></p>
+							<h1 class="mb-10 text-white">WolfAid</h1>
+							<p><b>Accessibility Design</b></p>
 						</div>
 					</div>
 				</div>
@@ -64,9 +64,10 @@
 
 					<div class="col-lg-4 col-xl-12">
 						<div class="single-service">
-							<h4>With this project we were tasked with creating a user experience for a car enthusiast when visiting a parts store. The project focuses on data usage for seamless and engaging expierence while reinforcing trust.</h4>
-							<p> The user is kept engaged in the store, while the store sales workforce do their work. The user can get curated content on the inspiration while they wait and can browse as well as add parts to their profile. The information is kept private and gives the user control over their data. Through this we look at keeping user control over their information in a commerical environment. </p>
-							<p>This project was a collaborative effort of Grce Herndon, Michele D'Souza, Matthew Maharaj and myself. </p>
+							<h4>The design challenge is to create an iOS application that enables an individual with BVI to use iBeacons in a new environment with minimal sighted assistance.</h4>
+							<p>The WolfAid system assists BVI users primarily new students navigate within NC State campus. WolfAid helps students in accomplishing tasks and works in realtime to update new paths in case of repairs. This looks into WolfAid being accessed by the community to futher improve it.</p>
+							<p>This project was a collabation along with Matthew Maharaj and Ashley Anderson.</p>
+							<p> For this project I worked with Sketch, Principle and AfterEffects. </p>
 						</div>
 					</div>
 
@@ -81,53 +82,51 @@
 
 			<div class="tz-gallery">
 				<h2>Process work</h2>
-				<div class="row">
-					<div class="col-sm-12 col-md-12">
-						<a class="lightbox" href="img/Inspiration Wall/AAP_pres_template3.jpg">
-							<img src="img/Inspiration Wall/AAP_pres_template3.jpg" alt="User Journey">
-						</a>
-					</div>
-				</div>
 
 				<div class="row">
 
-					<div class="col-sm-6 col-md-6">
-						<a class="lightbox" href="img/Inspiration Wall/StoryBoard 1.jpg">
-							<img src="img/Inspiration Wall/StoryBoard 1.jpg" alt="StoryBoard 1">
+					<div class="col-sm-12 col-md-4">
+						<a class="lightbox" href="img/Wolfaid/processwork.gif">
+							<img src="img/Wolfaid/processwork.gif" alt="process">
 						</a>
 					</div>
 					<div class="col-sm-6 col-md-6">
-						<a class="lightbox" href="img/Inspiration Wall/StoryBoard 2.jpg">
-							<img src="img/Inspiration Wall/StoryBoard 2.jpg" alt="StoryBoard 2">
+						<a class="lightbox" href="img/Wolfaid/Storyboard.gif">
+							<img src="img/Wolfaid/Storyboard.gif" alt="storyboard gif">
 						</a>
 					</div>
 					<div class="col-sm-12 col-md-12">
-						<a class="lightbox" href="img/Inpsiration Wall/Process.gif">
-							<img src="img/Inspiration Wall/Process.gif" alt="processwork">
+						<a class="lightbox" href="img/Wolfaid/Isabella_s Print Journey - Service Blueprint.jpeg">
+							<img src="img/Wolfaid/Isabella_s Print Journey - Service Blueprint.jpeg" alt="user journey">
 						</a>
 					</div>
-
+					<div class="col-sm-12 col-md-12">
+						<a class="lightbox" href="img/Wolfaid/Isabella_s Print Journey - Copy of Service Blueprint.jpeg">
+							<img src="img/Wolfaid/Isabella_s Print Journey - Copy of Service Blueprint.jpeg" alt="service blueprint">
+						</a>
+					</div>
+					<div class="col-sm-12 col-md-6">
+						<a class="lightbox" href="img/Wolfaid/iphone8-1.gif">
+							<img src="img/Wolfaid/iphone8-1.gif" alt="Hi-fi screen">
+						</a>
+					</div>
+					<div class="col-sm-12 col-md-6">
+						<a class="lightbox" href="img/Wolfaid/iWatch-1.gif">
+							<img src="img/Wolfaid/iWatch-1.gif" alt="watch screen">
+						</a>
+					</div>
 				</div>
 				<br><br>
-			<h2>End Solution</h2>
-			<div class="row">
+					<h2>End Solution</h2>
+					<div class="row">
+						<div class="col-sm-12 col-md-12">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/Zr7FkoIFkJg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+						</div>
 
-					<div class="col-sm-12 col-md-12">
-						<a class="lightbox" href="img/Inspiration Wall/AAP_pres_template5.jpg">
-							<img src="img/Inspiration Wall/AAP_pres_template5.jpg" alt="sketchwork">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-6">
-						<a class="lightbox" href="img/Inspiration Wall/AAP_pres_template8.jpg">
-							<img src="img/Inspiration Wall/AAP_pres_template8.jpg" alt="flagwork">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-6">
-						<a class="lightbox" href="img/Inspiration Wall/AAP_pres_template9.gif">
-							<img src="img/Inspiration Wall/AAP_pres_template9.gif" alt="process">
-						</a>
-					</div>
+
 				</div>
+
+			</div>
 
 		</div>
 

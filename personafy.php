@@ -49,7 +49,7 @@
 					<div class="menu-content pb-60 col-lg-10">
 						<div class="title text-center">
 							<h1 class="mb-10 text-white">Personafy</h1>
-							<p><b>Poster Design</b></p>
+							<p><b>Data Visualization</b></p>
 						</div>
 					</div>
 				</div>
