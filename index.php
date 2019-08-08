@@ -117,10 +117,10 @@
 					<div class="row grid">
 						<div class="single-portfolio col-sm-4 all corporate">
 							<div class="item">
-								<a href="wild"> <img src="img/p1.jpg" alt="Work 1">
+								<a href="personafy"> <img src="img/p1 copy.jpg" alt="Work 1">
 									<div class="p-inner">
-										<h4>Wild</h4>
-										<div class="cat"> Book Design</div>
+										<h4>Personafy</h4>
+										<div class="cat"> Poster Design</div>
 									</div>
 								</a>
 							</div>

@@ -17,13 +17,13 @@
 	<!-- Site Title -->
 	<title>Portfolio</title>
 
-	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<!-- =================== CSS ======================== -->
 	<link rel="stylesheet" href="css/linearicons.css">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="css/nice-select.css">					
+	<link rel="stylesheet" href="css/nice-select.css">
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/main.css">
@@ -43,7 +43,7 @@
 
 		<!-- Start service Area -->
 		<section class="service-area section-gap relative" id="service">
-			<div class="overlay overlay-bg"></div>	
+			<div class="overlay overlay-bg"></div>
 			<div class="container">
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content pb-60 col-lg-10">
@@ -52,8 +52,8 @@
 							<p><b>Print Media</b></p>
 						</div>
 					</div>
-				</div>	
-			</div>	
+				</div>
+			</div>
 		</section>
 		<!-- End service Area -->
 
@@ -73,7 +73,7 @@
 					</div>
 
 				</div>
-			</div>	
+			</div>
 		</section>
 		<!-- End services Area -->
 
@@ -109,13 +109,13 @@
 						<a class="lightbox" href="img/Unite/mathew6.jpg">
 							<img src="img/Unite/mathew6.jpg" alt="state">
 						</a>
-					</div> 
+					</div>
 					<div class="col-sm-6 col-md-4">
 						<a class="lightbox" href="fimg/Unite/mathew7.jpg">
 							<img src="img/Unite/mathew7.jpg" alt="vrspace">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4"> 
+					<div class="col-sm-12 col-md-4">
 						<a class="lightbox" href="img/Unite/mathew10.jpg">
 							<img src="img/Unite/mathew10.jpg" alt="diagram1">
 						</a>
@@ -124,7 +124,7 @@
 						<a class="lightbox" href="img/Unite/mathew11.jpg">
 							<img src="img/Unite/mathew11.jpg" alt="diagram2">
 						</a>
-					</div>	
+					</div>
 					<div class="col-sm-12 col-md-4">
 						<a class="lightbox" href="img/Unite/mathew12.jpg">
 							<img src="img/Unite/mathew12.jpg" alt="diagram3">
@@ -154,7 +154,7 @@
 						<a class="lightbox" href="img/Unite/handheldposter.jpg">
 							<img src="img/Unite/handheldposter.jpg" alt="flag">
 						</a>
-					</div>							
+					</div>
 
 				</div>
 
@@ -168,21 +168,18 @@
 	<?php include("footer.php"); ?>
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="js/vendor/bootstrap.min.js"></script>			
-	<script src="js/easing.min.js"></script>			
+	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="js/easing.min.js"></script>
 	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>	
-	<script src="js/owl.carousel.min.js"></script>			
-	<script src="js/jquery.sticky.js"></script>			
-	<script src="js/jquery.nice-select.min.js"></script>			
-	<script src="js/parallax.min.js"></script>	
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.sticky.js"></script>
+	<script src="js/jquery.nice-select.min.js"></script>
+	<script src="js/parallax.min.js"></script>
 	<script src="js/mail-script.js"></script>
-	<script src="js/isotope.pkgd.min.js"></script>	
-	<script src="js/main.js"></script>	
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/main.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 	<script> baguetteBox.run('.tz-gallery');</script>
 </body>
 </html>
-
-
-
