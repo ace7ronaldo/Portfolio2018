@@ -120,7 +120,7 @@
 								<a href="personafy"> <img src="img/p1 copy.jpg" alt="Work 1">
 									<div class="p-inner">
 										<h4>Personafy</h4>
-										<div class="cat"> Poster Design</div>
+										<div class="cat"> Data Visualization</div>
 									</div>
 								</a>
 							</div>
@@ -159,7 +159,7 @@
 							<div class="item">
 								<a href="inspirationwall" ><img src="img/p5 copy.jpg" alt="Work 1">
 									<div class="p-inner">
-										<h4>inspirationwall</h4>
+										<h4>Inspiration Wall</h4>
 										<div class="cat">UI/UX</div>
 									</div>
 								</a>
