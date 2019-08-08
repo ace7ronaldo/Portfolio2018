@@ -17,13 +17,13 @@
 	<!-- Site Title -->
 	<title>Portfolio</title>
 
-	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<!-- =================== CSS ======================== -->
 	<link rel="stylesheet" href="css/linearicons.css">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="css/nice-select.css">					
+	<link rel="stylesheet" href="css/nice-select.css">
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/main.css">
@@ -43,7 +43,7 @@
 
 		<!-- Start service Area -->
 		<section class="service-area section-gap relative" id="service">
-			<div class="overlay overlay-bg"></div>	
+			<div class="overlay overlay-bg"></div>
 			<div class="container">
 				<div class="row d-flex justify-content-center">
 					<div class="menu-content pb-60 col-lg-10">
@@ -52,8 +52,8 @@
 							<p><b>Web VR</b></p>
 						</div>
 					</div>
-				</div>	
-			</div>	
+				</div>
+			</div>
 		</section>
 		<!-- End service Area -->
 
@@ -73,7 +73,7 @@
 					</div>
 
 				</div>
-			</div>	
+			</div>
 		</section>
 		<!-- End services Area -->
 
@@ -82,10 +82,11 @@
 		<div class="container gallery-container">
 
 			<div class="tz-gallery">
+				<h2>Process work</h2>
 
 				<div class="row">
 
-					<div class="col-sm-12 col-md-4">
+					<div class="col-sm-12 col-md-6">
 						<a class="lightbox" href="img/Tour/activitymodule.jpeg">
 							<img src="img/Tour/activitymodule.jpeg" alt="activity flow">
 						</a>
@@ -95,35 +96,39 @@
 							<img src="img/Tour/ideation.jpeg" alt="module">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Tour/whiteboarding.jpeg">
-							<img src="img/Tour/whiteboarding.jpeg" alt="whiteboarding">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-8">
+					<div class="col-sm-12 col-md-12">
 						<a class="lightbox" href="img/Tour/whiteboarding1.jpeg">
 							<img src="img/Tour/whiteboarding1.jpeg" alt="planning">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Tour/setup.jpeg">
-							<img src="img/Tour/setup.jpeg" alt="setup">
-						</a>
-					</div> 
+					</div>
+					<div class="row">
+						<div class="col-sm-6 col-md-6">
+							<a class="lightbox" href="img/Tour/setup.jpeg">
+								<img src="img/Tour/setup.jpeg" alt="setup">
+							</a>
+						</div>
 					<div class="col-sm-6 col-md-4">
 						<a class="lightbox" href="img/Tour/camera.jpeg">
 							<img src="img/Tour/camera.jpeg" alt="camera">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4"> 
+					<div class="col-sm-12 col-md-12">
 						<a class="lightbox" href="img/Tour/studio.JPG">
 							<img src="img/Tour/studio.JPG" alt="360 image">
 						</a>
-					</div>	
-					<div class="col-sm-12 col-md-4">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/T3SuhH2u_HY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					</div>
 
+
+
+				</div>
+				<br><br>
+				<h2>End Solution</h2>
+
+
+					<div class="col-sm-12 col-md-12">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/T3SuhH2u_HY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
 				</div>
 
 			</div>
@@ -136,21 +141,18 @@
 	<?php include("footer.php"); ?>
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="js/vendor/bootstrap.min.js"></script>			
-	<script src="js/easing.min.js"></script>			
+	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="js/easing.min.js"></script>
 	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>	
-	<script src="js/owl.carousel.min.js"></script>			
-	<script src="js/jquery.sticky.js"></script>			
-	<script src="js/jquery.nice-select.min.js"></script>			
-	<script src="js/parallax.min.js"></script>	
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.sticky.js"></script>
+	<script src="js/jquery.nice-select.min.js"></script>
+	<script src="js/parallax.min.js"></script>
 	<script src="js/mail-script.js"></script>
-	<script src="js/isotope.pkgd.min.js"></script>	
-	<script src="js/main.js"></script>	
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/main.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 	<script> baguetteBox.run('.tz-gallery');</script>
 </body>
 </html>
-
-
-
