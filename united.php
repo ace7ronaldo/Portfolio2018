@@ -82,81 +82,92 @@
 		<div class="container gallery-container">
 
 			<div class="tz-gallery">
+				<h2>Process work</h2>
 
 				<div class="row">
 
-					<div class="col-sm-12 col-md-4">
+					<div class="col-sm-12 col-md-6">
 						<a class="lightbox" href="img/Unite/sketch.gif">
 							<img src="img/Unite/sketch.gif" alt="sketchwork">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/flag.gif">
-							<img src="img/Unite/flag.gif" alt="flagwork">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-4">
+					<div class="col-sm-6 col-md-6">
 						<a class="lightbox" href="img/Unite/process.gif">
 							<img src="img/Unite/process.gif" alt="process">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-8">
-						<a class="lightbox" href="img/Unite/mathew5.jpg">
-							<img src="img/Unite/mathew5.jpg" alt="religion">
+					<div class="col-sm-6 col-md-6">
+						<a class="lightbox" href="img/Unite/flag.gif">
+							<img src="img/Unite/flag.gif" alt="flagwork">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
+					<div class="col-sm-6 col-md-6">
 						<a class="lightbox" href="img/Unite/mathew6.jpg">
 							<img src="img/Unite/mathew6.jpg" alt="state">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="fimg/Unite/mathew7.jpg">
-							<img src="img/Unite/mathew7.jpg" alt="vrspace">
+					<div class="col-sm-12 col-md-12">
+						<a class="lightbox" href="img/Unite/mathew5.jpg">
+							<img src="img/Unite/mathew5.jpg" alt="religion">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/mathew10.jpg">
-							<img src="img/Unite/mathew10.jpg" alt="diagram1">
-						</a>
-					</div>
-					<div class="col-sm-6 col-md-4">
-						<a class="lightbox" href="img/Unite/mathew11.jpg">
-							<img src="img/Unite/mathew11.jpg" alt="diagram2">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4">
+					<div class="col-sm-12 col-md-6">
 						<a class="lightbox" href="img/Unite/mathew12.jpg">
 							<img src="img/Unite/mathew12.jpg" alt="diagram3">
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-4">
+
+					<div class="col-sm-12 col-md-6">
+						<a class="lightbox" href="img/Unite/mathew11.jpg">
+							<img src="img/Unite/mathew11.jpg" alt="diagram2">
+						</a>
+					</div>
+					<div class="col-sm-6 col-md-8">
 						<a class="lightbox" href="img/Unite/Plot 1.png">
 							<img src="img/Unite/Plot 1.png" alt="diagram1">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/flag.jpg">
-							<img src="img/Unite/flag.jpg" alt="flag">
-						</a>
-					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/tattoo.jpg">
-							<img src="img/Unite/tattoo.jpg" alt="tattoo">
-						</a>
-					</div>
 					<div class="col-sm-6 col-md-4">
+						<a class="lightbox" href="img/Unite/mathew10.jpg">
+							<img src="img/Unite/mathew10.jpg" alt="diagram1">
+						</a>
+					</div>
+
+
+				</div>
+				<h2>End Solution</h2>
+				<div class="row">
+					<div class="col-sm-12 col-md-12">
 						<a class="lightbox" href="img/Unite/JK-poster.jpg">
 							<img src="img/Unite/JK-poster.jpg" alt="poster">
 						</a>
 					</div>
-					<div class="col-sm-12 col-md-4">
-						<a class="lightbox" href="img/Unite/handheldposter.jpg">
-							<img src="img/Unite/handheldposter.jpg" alt="flag">
-						</a>
-					</div>
 
+				<div class="col-sm-6 col-md-12">
+					<a class="lightbox" href="fimg/Unite/mathew7.jpg">
+						<img src="img/Unite/mathew7.jpg" alt="vrspace">
+					</a>
 				</div>
+
+				<div class="col-sm-12 col-md-8">
+					<a class="lightbox" href="img/Unite/flag.jpg">
+						<img src="img/Unite/flag.jpg" alt="flag">
+					</a>
+				</div>
+				<div class="col-sm-12 col-md-4">
+					<a class="lightbox" href="img/Unite/tattoo.jpg">
+						<img src="img/Unite/tattoo.jpg" alt="tattoo">
+					</a>
+				</div>
+				<div class="col-sm-12 col-md-6">
+					<a class="lightbox" href="img/Unite/handheldposter.jpg">
+						<img src="img/Unite/handheldposter.jpg" alt="flag">
+					</a>
+				</div>
+
+
+
+			</div>
 
 			</div>
 
